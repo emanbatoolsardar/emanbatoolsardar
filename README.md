@@ -85,10 +85,9 @@ My work focuses on **aesthetic visuals, brand consistency, and user-friendly des
 ---
 
 ## 🎓 Education
-
-- **FSC (ICS)** – *Nova City College* (2022–2023)  
 - **Matric** – *Fauji Foundation School* (2020–2021)
-
+- **FSC (ICS)** – *Nova City College* (2022–2023)  
+- **BS Cyber Security** – *Hitec University Taxila* (2024–2028)
 ---
 
 ## 📚 Courses & Training
@@ -106,30 +105,6 @@ Skills: HTML, CSS, WordPress, Laravel
 Tools: Adobe Premiere, CapCut, InShot  
 
 ---
-
-## 🌐 Languages
-- Urdu  
-- English  
-
----
-
-## ⚙️ Tech Stack (Dark Mode)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,wordpress,laravel,figma,ai,ps&theme=dark" height="45" />
-</p>
-
----
-
-## 📊 GitHub Stats (Dark Theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=batool-eman&show_icons=true&theme=dark&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=batool-eman&theme=dark&hide_border=true" height="160" />
-</p>
-
----
-
 ## 📬 Connect With Me
 
 <p align="center">
